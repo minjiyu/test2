@@ -1,0 +1,3 @@
+:alembic:
+
+aaa>week1
